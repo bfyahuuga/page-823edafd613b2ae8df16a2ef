@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "26b5f1f377c43567b3f1dd4c",
+  "owner": "bfyahuuga",
+  "repo": "page-823edafd613b2ae8df16a2ef",
+  "title": "免费订阅节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "823edafd613b2ae8df16a2ef",
+      "a": "V2Club",
+      "b": "免费订阅节点",
+      "entity": "V2Club",
+      "brand": "免费订阅节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a0f22d2ff056f0107d142d5170c78b389943a25c111288491b4a25ab2bee02b3",
+      "content": {
+        "primary_entity": "V2Club",
+        "keyword1": "V2Club",
+        "keyword2": "免费订阅节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows、macOS、Android、iOS 各有适配工具，路由器需支持相应插件。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先看设备数量与月流量，再对照基础版、旗舰版和团队版，选好套餐即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松接入",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。基础版适合 3 台设备、100GB 月流量；旗舰版 5 台设备并带 IPLC 专线；团队版 20 台设备与 1000GB 流量。按客户端文档导入订阅地址即可使用。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三个方面帮助快速上手。",
+          "AI_FEATURES_TITLE": "核心选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台设备，按常用设备数选择套餐。",
+          "AI_FEATURE_TEXT_2": "各套餐按月或按年计费，年付方案比按月更省，适合长期使用者。",
+          "AI_FEATURE_TEXT_3": "每个套餐含对应流量与线路，旗舰版含 IPLC 专线，团队版含 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "流量与线路匹配",
+          "AI_GUIDE_INTRO": "三步完成从选购到使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "V2Club 提供基础版、旗舰版和团队版三档套餐，覆盖不同设备数量和流量需求，配合主流客户端可完成订阅导入与日常使用。",
+          "AI_HERO_SUBTITLE": "套餐匹配设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同设备数",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "按年付费更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版之间选定套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本是否满足套餐要求，路由器用户需确认插件支持。",
+          "AI_STEP_TEXT_3": "按所选客户端文档添加订阅地址，完成导入后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "V2Club 套餐与设备搭配",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "V2Club 基础版能同时几台设备在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机与电脑组合使用。超出设备数时需升级到旗舰版或团队版。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相当于支付十个月获得十二个月使用时长。",
+          "AI_FAQ_QUESTION_3": "怎么把订阅导入客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端找到订阅或配置导入入口，粘贴订阅链接后保存并更新节点列表，具体位置参考所用客户端文档。",
+          "AI_FAQ_QUESTION_4": "不同系统应该选哪个客户端？",
+          "AI_FAQ_ANSWER_4": "Windows 和 macOS 使用桌面客户端，Android 安装 APK，iOS 从 App Store 获取对应应用，路由器需刷入支持订阅导入的固件。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 高带宽节点与定制路由，适合小团队协作与多终端办公。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "69921475a58f773ebc3d35a76c0277baca244523c9b4fbaa738e86127154b6d1",
+    "sitemap.xml": "545858004d4004fb7f2ebb73bf262d40838904632cb1ed3ee4442f078ce25160",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "185e70158e74677c2c3a23714bb2d499f2fe6c893f74f4220dc81c82733e6922"
+}
